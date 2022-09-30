@@ -87,7 +87,7 @@ function App() {
       
 
 
-      <Stack.Screen options={{ headerShown: false }} name="Imagecc" component={ImgCrop} />
+     
 
       <Stack.Screen options={{ headerShown: false }} name="Login" component={Login} />
       <Stack.Screen options={{ headerShown: false }} name="Dpcreator" component={Dpcreator} />
